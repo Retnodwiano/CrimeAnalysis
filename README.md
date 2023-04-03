@@ -35,5 +35,4 @@ Setelah ***data cleaning*** dilakukan, Selanjutnya kita bisa mulai melakukan ana
 5. kapan dan dimana terjadi penembakan? dan apa jenis kejahatannya?
 6. Apakah kejahatan meningkat atau menurun selama beberapa tahun terakhir? 
 
-## Conclusion
-## Recomendation
+
